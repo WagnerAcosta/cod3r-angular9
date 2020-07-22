@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta Big Preta",
+      "price": 12
+    },
+    {
+      "id": 2,
+      "name": "Papel higienico",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "name": "Panelade pressão",
+      "price": 120
+    },
+    {
+      "id": 4,
+      "name": "Lapizeira",
+      "price": 10
+    },
+    {
+      "name": "Pinto fino",
+      "price": 123,
+      "id": 5
+    }
+  ]
+}
